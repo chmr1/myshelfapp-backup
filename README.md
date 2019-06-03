@@ -7,8 +7,11 @@ react-native init MyShelfApp --version 0.55.4
 
 # Dependências
 yarn add babel-core@latest --save
+
 yarn add babel-loader@latest --save
+
 yarn remove babel-preset-react-native --save
+
 yarn add babel-preset-react-native@4.0.0 --save
 
 yarn add axios --save
